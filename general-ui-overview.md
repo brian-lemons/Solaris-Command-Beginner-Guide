@@ -31,3 +31,15 @@
 8. This represents your ship and the arrow extending from it is the ship's current movement path.
 
 **Up Next**: [Ship UI Overview](ship-ui-overview.md)
+
+### Terrain 
+
+| Type | Icon |
+|---|---|
+| Asteroid Field | ◌ |
+| Debris Field | ⦼ |
+| Gas Cloud | ⩯ |
+| Gravity Well | ⧨ |
+| Industrial Zone | ⛋ |
+| Nebula | ≈ |
+| Radiation Storm | ☢ |
