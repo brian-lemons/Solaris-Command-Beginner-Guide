@@ -27,3 +27,5 @@
 7. Here you can quickly view all the units you own within your empire.
 
 8. This represents your ship and the arrow extending from it is the ship's current movement path.
+
+**Up Next**: [Ship UI Overview](ship-ui-overview.md)
