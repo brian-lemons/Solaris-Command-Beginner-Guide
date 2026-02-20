@@ -1,3 +1,6 @@
+[Home](README.md)
+[Go Back] (general-ui-overview.md)
+
 ## Ship UI
 
 <img src = "images/ship icon.png">

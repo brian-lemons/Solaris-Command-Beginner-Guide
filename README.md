@@ -1,4 +1,4 @@
-# Welcome to My Guide
+# Solaris: Command Beginner's Guide
 
 ## Table of Contents
 1. Understanding The UI
