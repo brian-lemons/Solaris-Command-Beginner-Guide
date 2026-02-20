@@ -24,6 +24,20 @@
     * Toggle Hex Graphics
     * Toggle Units
 
-7. Here you can quickly view all the units in you own within your empire.
+7. Here you can quickly view all the units you own within your empire.
 
 8. This represents your ship and the arrow extending from it is the ship's current movement path.
+
+## Ship UI
+
+<img src = "images/ship icon.png">
+
+Let's break down the ship icon interface. 
+
+* **Movement Points**: This represents your ships remaining movement points.
+
+* **Action Points Remaining**: This lightening bolt icon represents your ships remaining **Action Points**.
+
+* The **White Boxes** represents your ship's total **Steps**. 
+
+* Icons within the white boxes represents your ships hired **Specialist**.
