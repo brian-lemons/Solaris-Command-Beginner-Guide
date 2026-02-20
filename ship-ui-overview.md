@@ -1,5 +1,5 @@
 [Home](README.md)
-[Go Back] (general-ui-overview.md)
+[Go Back](general-ui-overview.md)
 
 ## Ship UI
 
