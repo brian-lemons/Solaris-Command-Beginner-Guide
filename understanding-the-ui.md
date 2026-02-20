@@ -12,9 +12,9 @@
 
 5. This represents important resources in your empire. From Left to Right: 
     * Your **Prestige** acts as money. 
-    * **VP or Victory Points** is your score. To win the game, you need to be the first to obtain 100. This represents your total 
-    * **Planets** you own. This represents your total 
-    * **Stations** you own.
+    * **VP or Victory Points** is your score. To win the game, you need to be the first to obtain 100. 
+    * This represents your total **Planets** you own. 
+    * This represents your total **Stations** you own.
 
 6. Map Options. From Left to Right:
     * Toggle Hex Coordinates
